@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254104471665",
+    "project_id": "randomcolorsaver",
+    "storage_bucket": "randomcolorsaver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254104471665:android:51c42845693f2c288973d0",
+        "android_client_info": {
+          "package_name": "com.lunatictiol.randomcolorsaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254104471665-9cjo8d5dl157kspnrus4631ruv6lns4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxhwLhyOi9auyv4x9HRFRFLc7z49k7Fik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254104471665-9cjo8d5dl157kspnrus4631ruv6lns4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
